@@ -24,7 +24,7 @@ jobs:
         #go version
         ##this script will run subdomain enumeration 
         ##comment and uncommnet command according to your configuration 
-        ## dont forfet to change configuration in scipts since some program mandate rate limit
+        ## dont forget to change configuration in scipts since some program mandate rate limit
         #sleep 5
         #scripts/subdomain.sh
         #sleep 5
