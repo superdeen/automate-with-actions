@@ -3,7 +3,7 @@ name: GitHub Actions
 on: [push]
 permissions: write-all 
 jobs:
-  autoamate-with-actions:
+  automate-with-actions:
     runs-on: ubuntu-latest
     defaults: 
       run:
